@@ -65,6 +65,17 @@ while (index<=stars.length-1) {
 
 // 3.b. TODO: Write a while loop to console.log the numbers from 0 to 5
 console.log('count from 0 to 5');
+let number = 0
+while (number<=5) {
+  console.log(number);
+  number++;
+}
 
 // 3.c. TODO: Write a while loop to console.log the numbers from 10 to 5
 console.log('count backwards from 10 to 5');
+let X = 10
+while (X>=5) {
+  console.log(X);
+  X--;
+}
+///For while loops do we always need to define the variable ahead of writing the while statment?
